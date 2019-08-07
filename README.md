@@ -1,6 +1,6 @@
 # AndroidDictionary
 
-L’idée de l’application et de permettre à l’utilisateur
+L’idée de l’application est de permettre à l’utilisateur
 - de saisir des listes de vocabulaire anglais avec leur traduction
 - de pouvoir visualiser ses listes
 - d’avoir un mode interrogation avec un score final
