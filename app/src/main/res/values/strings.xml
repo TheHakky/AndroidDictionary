@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgMobile</string>
+    <integer name="nbQestion">4</integer>
+    <integer name="questionDuration">10</integer>
+</resources>
